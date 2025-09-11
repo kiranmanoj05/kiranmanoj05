@@ -25,4 +25,4 @@
 
 *Tools & Platforms*  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-[11/09/2025, 17:34:19] Kanna: copy everything in that README.md
+
