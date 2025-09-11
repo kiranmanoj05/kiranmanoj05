@@ -1,7 +1,10 @@
 # Hello, I'm Kiran!  
 🎓 2nd-year Comp Sci student @ *University of Bath*  
+
 📍 Aspiring Data Scientist | Passionate about Machine Learning & Software Engineering
+
 📈 Experienced across industry, academic, and simulated projects, with exposure to full-stack development and collaborative software engineering practices
+
 🤝 Thrive in collaborative, fast-paced environments, applying analytical thinking to real-world challenges
 
 ## 🌐 Socials  
